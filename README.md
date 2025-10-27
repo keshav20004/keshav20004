@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bruno+Ace&weight=500&duration=2000&pause=2000&color=00CCFF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=GenAI+%7C+ML+%7C+Fullstack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bruno+Ace&weight=501&duration=2000&pause=2000&color=00CCFF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=GenAI+%7C+ML+%7C+Fullstack" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="assests/output.gif" alt="Keshav brand reveal animation" width="600" />
