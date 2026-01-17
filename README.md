@@ -18,11 +18,11 @@
 - 🎓 4th Yr AIML • AKTU
 - 🤖 Building GenAI/ML projects using Gemini, OpenCV, Python, JavaScript
 - ⚒️ Grinding DSA + System Design
-- ✨ Side quest: Becoming a better engineer every damn day
+- ✨ Side quest: Becoming a better engineer every  day
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 | 🧩 Languages   | ☕ Framework / Web | 🤖 ML / GenAI            | 🔧 Tools         |
 |---------------|-------------------|---------------------------|------------------|
