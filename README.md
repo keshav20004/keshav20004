@@ -26,7 +26,7 @@
 
 | 🧩 Languages   | ☕ Framework / Web | 🤖 ML / GenAI            | 🔧 Tools         |
 |---------------|-------------------|---------------------------|------------------|
-| Python, Java, JS | React, Flask | scikit-learn, Gemini, OpenCV | Git/GitHub, Linux, MySQL |
+| Python, Java, JS | React,Nextjs | scikit-learn, Gemini, OpenCV | Git/GitHub, Linux |
 
 ---
 
